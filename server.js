@@ -13,10 +13,10 @@ const db = knex({
   // connect to your own database here:
   client: 'pg',
   connection: {
-    host : '127.0.0.1',
-    user : 'aneagoie',
-    password : '',
-    database : 'smart-brain'
+    host : 'dpg-cfv3n1kgqg48sst9gri0-a',
+    user : 'cerebro_db_user',
+    password : 'LWYHNjMy04ThHYhCbxzdO4Lrr1YzT09W',
+    database : 'cerebro_db'
   }
 });
 
