@@ -13,3 +13,4 @@ You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 *visist https://zerotomastery.io/ for more*
 # cerebro-api
+# cerebro-frontend
